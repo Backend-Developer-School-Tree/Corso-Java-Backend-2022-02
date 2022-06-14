@@ -1,0 +1,17 @@
+Scrivere un programma che gestisca delle automobili. Creare dunque una classe Automobile
+con i seguenti attributi:
+- modello
+- marchio
+- cilindrata
+- numero di marce
+- marcia inserita
+- motore acceso, di default il motore è spento
+
+I metodi da progettare sono i seguenti:
+- accendiMotore() che accende il motore nel caso in cui il motore sia spento
+- spegniMotore() che spegne il motore nel caso in cui il motore sia acceso
+- aumentaMarcia() che incrementa la marcia a quella successiva
+- scalaMarcia() che decrementa la marcia a quella inferiore
+- inserisciMarcia(n) che setta la marcia ad n
+
+Creare poi un main per testare i vari metodi.
