@@ -1,3 +1,5 @@
+# Dragon Ball 
+
 Vogliamo creare un videogioco basato sul famosissimo manga di Akira Toriyama, nel quale i vari
 personaggi possono combattere tra di loro in una sorta di Torneo Tenkaichi.
 Ogni personaggio ha un nome, dei punti vita, una lista di 4 possibili attacchi personalizzati e una

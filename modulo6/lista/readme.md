@@ -1,4 +1,4 @@
-## Lista 🛴 
+# Lista 🛴 
 
 Progettare un'interfaccia Lista che permette di fare le seguenti operazioni
 * get(int i) che restituisce l'elemento alla posizione i della sequenza
