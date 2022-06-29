@@ -1,4 +1,4 @@
-Esercizio Supermercato versione 2 🛴
+# Esercizio Supermercato Versione 2 🛴
 
 Scrivere un programma Java che permetta di gestire la coda di un supermercato. 
 In particolare, deve essere possibile eseguire le seguenti operazioni:
